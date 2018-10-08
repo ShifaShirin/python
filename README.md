@@ -28,5 +28,5 @@ python3.6 -m pip install -U pylint  // (if not installed try )  pip install -U p
 
 python3.6 -m pip install -U autopep8  // (if not installed try )  pip install -U autopep8
 
- All are enjoy 
+ All are Set
 Enjoy Codingggg :).....
